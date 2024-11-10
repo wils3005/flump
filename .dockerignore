@@ -1,0 +1,10 @@
+coverage/
+tmp/
+
+.dockerignore
+.env*
+.prettierrc.json
+docker-compose.yml
+Dockerfile
+LICENSE
+README.md
